@@ -1,4 +1,12 @@
 ## Hi there 👋
+I am a computer scientist 💻, curious about a lot in the tech world including:
+
+🛠️ Software Development
+☁️ Cloud Development
+🔐 Cybersecurity
+🤖 AI and Machine Learning
+
+I explore each of these sectors on a day-to-day basis to improve my skills 📈 and solve real world issues 🌍.
 
 <!--
 **VictorMutugi/VictorMutugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
