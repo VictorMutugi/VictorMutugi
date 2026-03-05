@@ -5,6 +5,7 @@ I am a computer scientist 💻, curious about a lot in the tech world including:
 ☁️ Cloud Development
 🔐 Cybersecurity
 🤖 AI and Machine Learning
+🖥️ IT Support
 
 I explore each of these sectors on a day-to-day basis to improve my skills 📈 and solve real world issues 🌍.
 
