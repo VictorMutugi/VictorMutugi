@@ -8,7 +8,7 @@ I'm currently a **Software & AI Engineering Intern** at the ICT Authority of Ken
 
 ### 🚀 What I’m Vibing With
 
-I consider myself a **"vibe coder"**—I leverage AI to move fast, break through bottlenecks, and ship high-quality software at speed. My daily grind involves:
+I leverage AI via SDD to move fast, break through bottlenecks, and ship high-quality software at speed. My daily grind involves:
 
   * **🛠️ Full-stack Engineering:** Mastering the **React + Vite + TypeScript** ecosystem while keeping my roots deep in **Java/Spring Boot** and **Backend Architecture**.
   * **🤖 AI & Machine Learning:** Architecting **RAG (Retrieval-Augmented Generation)** systems and exploring LLM orchestration with **LlamaIndex**.
